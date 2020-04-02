@@ -1,8 +1,6 @@
 # High_entropy_alloys_yield_stress_ml
 # Authors - 
 Pau Cutrina Vilalta
-Somayyeh Sheikholeslami
-Department of Physics Oakland University, Rochester, MI, 48309
 Department of Mechanical and Aerospace Engineering University of Colorado, Colorado Springs Colorado Springs, CO 80918
 
 Somayyeh Sheikholeslami
