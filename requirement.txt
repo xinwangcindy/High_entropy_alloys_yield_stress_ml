@@ -1,0 +1,7 @@
+ipython==7.4.0
+matplotlib==3.0.3
+numpy==1.16.3
+pandas==0.24.2
+scikit-learn==0.20.3
+scipy==1.2.1
+sklearn==0.0
